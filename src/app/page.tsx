@@ -5,7 +5,6 @@ import Programs from "@/components/home/Programs";
 import SchoolPartners from "@/components/home/SchoolPartners";
 import SchoolSoftware from "@/components/home/SchoolSoftware";
 import Testimonial from "@/components/home/Testimonial";
-import Image from "next/image";
 
 export default function Home() {
   return (
